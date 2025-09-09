@@ -1,0 +1,27 @@
+{
+  "name": "penguin-formulas",
+  "version": "1.0.0",
+  "description": "Custom Google Sheets formulas library with GitHub distribution",
+  "main": "build/formulas.js",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_USERNAME/penguin-formulas.git"
+  },
+  "keywords": [
+    "google-sheets",
+    "formulas",
+    "custom-functions",
+    "apps-script",
+    "spreadsheet"
+  ],
+  "author": "Joshua Shew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/penguin-formulas/issues"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/penguin-formulas#readme"
+}
