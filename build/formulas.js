@@ -2,8 +2,8 @@
  * penguin-formulas v1.0.0
  * Custom Google Sheets Formulas Library
  * 
- * Built: 2025-09-07T20:23:55.238Z
- * GitHub: https://github.com/YOUR_USERNAME/penguin-formulas
+ * Built: 2025-09-09T13:34:22.679Z
+ * GitHub: https://github.com/Jython1415/penguin-formulas
  * 
  * This file is auto-generated. Do not edit directly.
  * Edit individual files in src/formulas/ and run 'node scripts/build.js'
@@ -26,7 +26,7 @@ function PENGUIN_VERSION() {
   return [
     ['Library', 'penguin-formulas'],
     ['Version', '1.0.0'],
-    ['Built', '2025-09-07T20:23:55.238Z'],
+    ['Built', '2025-09-09T13:34:22.679Z'],
     ['Functions', 3]
   ];
 }

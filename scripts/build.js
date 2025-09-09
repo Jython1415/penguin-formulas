@@ -71,7 +71,7 @@ function buildFormulas() {
  * Custom Google Sheets Formulas Library
  * 
  * Built: ${buildTime}
- * GitHub: https://github.com/YOUR_USERNAME/penguin-formulas
+ * GitHub: https://github.com/Jython1415/penguin-formulas
  * 
  * This file is auto-generated. Do not edit directly.
  * Edit individual files in src/formulas/ and run 'node scripts/build.js'

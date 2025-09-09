@@ -13,8 +13,8 @@
  * CONFIGURATION: Update these values with your GitHub details
  */
 const CONFIG = {
-  owner: 'YOUR_GITHUB_USERNAME',        // Replace with your GitHub username
-  repo: 'penguin-formulas',             // Replace with your repository name  
+  owner: 'Jython1415',                  // GitHub username
+  repo: 'penguin-formulas',             // Repository name  
   path: 'build/formulas.js',            // Path to the built formula file
   branch: 'main',                       // Branch to use (main for stable)
   cacheHours: 24                        // How long to cache (24 hours recommended)
